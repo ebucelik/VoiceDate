@@ -1,0 +1,165 @@
+/* 
+  Localizable.strings
+  Casen
+
+  Created by Ebu Bekir Celik on 10.08.19.
+  Copyright © 2019 KeepEasy. All rights reserved.
+*/
+
+//ViewController
+"ViewControllerTitle" = "Yeni bir şey zamanı.\nŞimdi VoiceDaten yap.";
+
+//DatingController
+"PressKey" = "Yeniden yüklemek için Update - Butonuna basın.";
+"NoUserKey" = "Kullanıcı yok";
+"LikesConsumed" = "Likes'lar tüketildi";
+"YouCanLikeFrom" = "Yine like bu zamandan sonra edebilirsin ";
+"DontWantToWait" = "\nBeklemek istemiyormusun? Ozaman bunun altindaki functionları kullan ki bekleme zamani azalt ⌛";
+"MoreLikes" = "Daha cok Like";
+"LikesFull" = "Like'larin olmadi zaman görüselim.\nOzamana kadar eğlen 😏";
+"PrivacyKey" = "Gizlilik politikası";
+"UnderKey" = "Anlasıldı";
+"SwipeKey" = "Tekrar kaydir";
+"SwipeOneKey" = "Bu işlevi kullanmak için birini kaydırın 😏";
+"SwipeAgainKey" = "Kaydırma çubuğunu geri almak istiyor musun? Ozaman bi video izle ve kaydırma çubuğunu tekrarla 😝";
+"VideoKey" = "VIDEO IZLE";
+"InformationKey" = "Bilgi";
+"InfoTextKey" = "\nİşte o anki Kullanıcı ile ilgili Bilgiler.\nKullanıcı kendini kendi sesiyle tanıtır.\n";
+"InvalidLocKey" = "Geçersiz konum";
+"LocationKey" = "Yakınınızdaki eşleşmeleri bulmak için konumunuza ihtiyacımız var!";
+"SettingKey" = "Ayarları aç";
+"MatchKey" = "Yeni partnerinizle konuşmaya başlayın 😝";
+"ProfileKey" = "Profil";
+"DatingTipsKey" = "Tanışma ipuçları";
+"PickUpKey" = "Pick-up Hatları";
+"DeleteAccKey" = "Hesapı sil";
+"ContactKey" = "Kontak";
+"LogoutKey" = "Oturum'dan cık";
+"ReportUserKey" = "Bu kullanıcı istenmeyen, rahatsız edici içerik gösteriyor veya aşağıdaki özelliklerden herhangi biri doğru değil:\n\nKullanıcı profili resmi, kullanıcı sesi, kullanıcı yaşı.";
+"ReportTitle" = "Kullanıcıyı rapor et";
+"Report" = "Rapor et";
+"RepCan" = "Iptal et";
+"Reported" = "Kullanıcı bildirildi";
+"ReportedTxt" = "Mesajın için teşekkürler!\nGerisini biz hallederiz.";
+"ReportNoUser" = "Şu anda bildirilecek kullanıcı yok.";
+
+"BlockUserKey" = "Bu kullanıcı istenmeyen, rahatsız edici içerik gösteriyor veya aşağıdaki özelliklerden herhangi biri doğru değil:\n\nKullanıcı profili resmi, kullanıcı sesi, kullanıcı yaşı.";
+"BlockTitle" = "Kullanıcıyı engelle";
+"Block" = "Engelle";
+"BlockCan" = "Iptal et";
+"Blocked" = "Kullanıcı engellendi";
+"BlockTxt" = "Bu kullanıcı engellendi!\nBu kullanıcıyı artık göremezsiniz.";
+"BlockNoUser" = "Şu anda engellenecek kullanıcı yok.";
+
+
+//Login Controller
+"ToLoginKey" = "Giriş yap";
+"PasswordKey" = "Şifre";
+"PasswordKeyRepeat" = "Şifreyi tekrarla";
+"LoginBtnKey" = "Kayıt ol";
+"InvalidKey" = "Geçersiz";
+"WrongMailKey" = "Yanlis E - Mail yada parola!";
+"OkayKey" = "Tamam";
+"InitsKey" = "Lütfen verilerinizi kontrol edin!";
+"PassCheckKey" = "Şifrenizi kontrol ediniz!";
+"CharKey" = "Şifreler 8 veya daha fazla karakter içermelidir!";
+"ImgKey" = "Lütfen bir profil resmi seçin!";
+"ExistKey" = "Bu e-mail ile sahip bir kullanıcı zaten var!";
+"ToRegsiterKey" = "Kayıt ol";
+"RegisterBtnKey" = "Giriş yap";
+
+//ExtraDate Controller
+"GeneralKey" = "Genel:";
+"FirstKey" = "Adın";
+"LastKey" = "Soyadın";
+"BirthKey" = "Doğum tarihi";
+"MKey" = "Erkek";
+"FKey" = "Kadın";
+"InterestKey" = "Ilgini ceken:";
+"BKey" = "Ikiside";
+"IntroKey" = "Kendini tanıt:";
+"CompleteRegKey" = "Devam";
+"AlphaKey" = "Sadece alfabe'ye izin verilir!";
+"DateKey" = "Sadece seçilen bir tarihe izin verilir!";
+"RecordKey" = "Kayıt süresi minimum 10 saniye olmalıdır!";
+"OlderKey" = "18 yaş ve üstü olmalısın!";
+"FillInKey" = "Lütfen formu doldurun!";
+
+//TabViewController
+"DatesTabKey" = "Randevular";
+"MatchesTabKey" = "Karşılaşmalar";
+
+//Matches Controller
+"LoadingKey" = "Karşılaşmalar yükleniyor ...";
+"MatchesTitleKey" = "Karşılaşmalar";
+
+//Chat Controller
+"LoadingChatKey" = "Sohbet yükleniyor ...";
+"VoiceKey" = "Sesli mesaj";
+"SentKey" = " sana bir sesli mesaj yolladı 😏";
+"MessageKey" = "Mesajlar tüketildi ☹️";
+"MessWatchKey" = "3 Sesli Mesaj daha almak için bir video izle 😝\nYada tamamen 5 Sesli Mesaja kadar doldurun ☑️";
+
+//PopUp ViewController
+"ReduceKey" = "BEKLEME ZAMANI AZALTIN";
+"FillUpKey" = "KOMPLE DOLDUR";
+
+//Edit Controller
+"IntroNewKey" = "Kendini yeniden tanıt:";
+"EditKey" = "Profili düzenle";
+
+//Dating Tipps Controller
+"TipsKey" = "Tanışma ipuçları, kadın ve erkekler için belirlenmiş ve ayrılmıştır. Her iki cinsiyet de, karşı cinsiyetin buluşma ipuçlarını göremez.";
+"Date1Key" = "\"Basit bir \"Merhaba!\" göndermeden önce, profil sesli notunuzu tekrar dinleyin. Bu kadınla tam olarak iletişime geçmenizde sizi neyin motive ettiğini düşünün:\n\nBu profili hakkında sizi en çok neler büyüledi?\nNeden gözlerindeki kalabalığın arasından sıyrılıyor?\nHas o seninle aynı ilgileri mi var? Heyecan verici bir hobi mi?\nProfilinde mizah var mı, maceracı gezi mi yaptı?\"";
+"Date2Key" = "\"En başından beri, profilinle uğraştığını ve kişisel olması gerektiğini göster. Bu selamlama ile başlar. Her zaman adıyla konuş ve bir soru sor. Açıklığı böyle söylersin.\"";
+"Date3Key" = "\"Sohbeti başlatmak için uygun başlıklar şunlardır, örneğin:\n\nSporlar\nHobbiler\nFilmler ve diziler\nMüzik\nSeyahat hedefleri\n\nDikkat: Kesinlikle yasaktır, ayrılma, gönül yarası, aile dairesinde hayal kırıklığı veya çok hareketli bir gelecek gibi konulardır. à la \"Planları yakında çocuklarım olsun istiyorum.\"";
+"Date4Key" = "\"Kadınların kesinlikle istediği tüm yaratıcılıklarla, her zaman dürüst olmalısın. Kendinizi sizden daha genç, daha yalın, daha iyi veya daha başarılı yapmayın. Abartmayın.\"";
+"Date5Key" = "\"Kadınların çoğu, kendilerine gülen ve tekrar tekrar güldüren erkekleri sever. Bu yetenek, istek listesinde genellikle yüksektir.\"";
+"Date6Key" = "\"Çok fazla ve detaylı konuşmayı sevenlerden birisiyseniz, başında biraz durmalısınız. Onu fazla bilgi ve bitmeyen, caydırıcı sesli notla öldürmeyin.\"";
+"Date7Key" = "\"Giriş aşamasının başında, bir kadının görünümüyle ilgili övgüler tabudur! Çekici kadınlar her gün bu övgüleri diğer ağlardan duyuyorlar.\"";
+"Date8Key" = "\"Reddetme bir eleştiri değil, geribildirimdir! Geri bildirim, hedefe giden yolda bir adımdır. Ondan öğren.\"";
+
+"DateF1Key" = "\"Kendinden emin bir kadınsın ve ne istediğini biliyorsun. Ve arzunun nesnesi sadece bu adamsa, o zaman ona göstermekten de korkmayın. Kaybedecek hiçbir şeyin yok, bu yüzden sadece cesaret.\"";
+"DateF2Key" = "\"Bir sesli not göndermeden önce profil sesli notunu dikkatlice dinleyin. Hangi hobileri var? Profil resminin arka planında neler tanıyorsunuz?\"";
+"DateF3Key" = "\"Açık bir soru sadece büyük bir muhatap değil, aynı zamanda ilginizin ikiyüzlü olmadığını da gösterir. Gerçekten adam hakkında bir şeyler bilmek istiyorlar ve hemen konuşması gereken mükemmel konular var. İkramiye!\"";
+"DateF4Key" = "\"Erkeklere mizah yazmayı düşünemiyorsanız, örneğin arkadaşlarınızla eğlenceli hatıralar düşünün. Belki kendin için de gülebileceğini gösteren bir deneyim oldu?\"";
+"DateF5Key" = "\"Bir yabancıyla yaptığınız ilk konuşmada, ikiniz de yeni araziye çıkacaksınız. Ancak, bu sıkıcı bir mesaj formüle etmeniz gerektiği anlamına gelmez! Biraz flört etme zarar vermez. Ancak abartmamak için dikkatli olun.\"";
+"DateF6Key" = "\"Mesaj gönderildi. Ancak cevap maalesef yakında geliyor. Cesaretini kırma! Siz kendiniz kesinlikle yaşamda hayatı tehdit eden bir aşama yaşadınız. Belki de mesajı henüz okumamış veya bir cevap oluşturmak için biraz zaman ayırmak istiyor.\"";
+"DateF7Key" = "\"Sadece bir kişiye odaklanmak, ondan ümit verici bir yanıt almamış olsanız bile, çok ayık olabilir. Bu nedenle, Plan B ve C'ye sahip olmak asla fena değil.\"";
+"DateF8Key" = "\"Tabii ki, erkeklere yazarken, erkeği derhal ömür boyu bulamayabilirsiniz. Kafanı asma. Doğru adam hala seni bekliyor.\"";
+
+//PickUp Controller
+"PickUpLineKey" = "Alış Çizgileri erkekler ve kadınlar için belirlenmiş ve ayrılmıştır. Her iki cinsiyet de karşı cinsiyetin toplama çizgilerini göremez.";
+"DateM1Key" = "\"Sohbet alanındaki sürekli reklamlar can sıkıcıdır.\nHala reklamsız bir platformda mı konuşuyoruz?\"";
+"DateM2Key" = "\"Araştırmalar, kadınların bir erkekten hoşlanıyorlarsa genellikle 1.3 saniye sonra bildiklerini göstermiştir. Bu cümle şimdi yaklaşık üç saniye sürmüştür - cevabınız nedir?\"";
+"DateM3Key" = "\"Lütfen benimle birkaç kelime paylaşın, arkadaşlarım kıskanmalıdır, çünkü güzel bir kadınla konuşuyorum.\"";
+"DateM4Key" = "\"Bizi birbirimizle tanıştırabilecek karşılıklı bir arkadaşımız olabileceğini düşünüyor musunuz?\"";
+"DateM5Key" = "\"Artık ne iltifat duyamıyorsunuz?\"";
+"DateM6Key" = "\"Beni asıl şaşırtan ne biliyor musun? - Hayır, ne? - Henüz birbirimizi tanımıyoruz.\"";
+"DateM7Key" = "\"İyi, nasıl davranacağımı bildiğim için. Öfkemi bastırdım. Yine de, adının ne olduğunu bilmek istiyorum.\"";
+"DateM8Key" = "\"Beni fark ettiğini fark ettiğini fark ettim.\"";
+"DateM9Key" = "\"Bir kutup ayısının ne kadar ağır olduğunu biliyor musunuz? - Buzu kırmak için yeterince ağır. - Ben \"Tim\" ve sen?\"";
+"DateM10Key" = "\"Ne istediklerini bilen kadınları severim ve kendimi çok kadın gibi hissediyorum. Haklı mıyım\"";
+"DateM11Key" = "\"Etrafına baktım, sen buradaki en güzel kadınsın.\"";
+"DateM12Key" = "\"Ortak bir noktamız var: Güzel kadınları severim, sen de güzel bir kadınsın. Bu tesadüf olamaz!\"";
+"DateM13Key" = "\"Başka ne var ne yok?\"";
+
+"F1Key" = "\"Kadere inanır mısın?\"";
+"F2Key" = "\"Kim olduğunu bilmiyorum ama sanırım bilmek istiyorum.\"";
+"F3Key" = "\"Birbirimizle sadece 2 saniyedir konuşmamıza rağmen, şimdiden sonsuzluk gibi geliyor. Lütfen sonunda bir şey söyle.\"";
+"F4Key" = "\"Kendiliğinden görünüyorsun. Spontan bir konuşma hakkında ne düşünüyorsun?\"";
+"F5Key" = "\"Hey, sıradaki arkadaşıma benziyorsun.\"";
+"F6Key" = "\"Ceketini beğendim.\"";
+"F7Key" = "\"Az önce bana göz kırptın mı?\"";
+"F8Key" = "\"Beni tanımak istiyorsan acele etmelisin. Hemen geri döneceğim.\"";
+"F9Key" = "\"Hey, seni burada hiç görmedim. Daha sık mı geldin?\"";
+"F10Key" = "\"Selam, ben \"Nadine\". Senin ismin?\"";
+"F11Key" = "\"Gerçekten hiçbir erkekle konuşmuyorum. Şu an benimle neler oluyor bilmiyorum.\"";
+"F12Key" = "\"Başka ne var ne yok?\"";
+
+//Introduction Controller
+"FirstIntroKey" = "Başlangıç";
+"InfoIntroKey" = "Bu uygulama VoiceDate'in birkere bu girişte gösterilecektir.";
+
+//Tip Controller
+"StartKey" = "VoiceDating'i Başlat";

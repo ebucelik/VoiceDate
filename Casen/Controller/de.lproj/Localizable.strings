@@ -1,0 +1,165 @@
+/* 
+  Localizable.strings
+  Casen
+
+  Created by Ebu Bekir Celik on 10.08.19.
+  Copyright © 2019 KeepEasy. All rights reserved.
+*/
+
+//View Controller
+"ViewControllerTitle" = "Zeit für etwas Neues.\nVoiceDate jetzt.";
+
+//Dating Controller
+"PressKey" = "Klick auf den Update - Button um neu zu laden.";
+"NoUserKey" = "Kein Nutzer";
+"LikesConsumed" = "Likes verbraucht";
+"YouCanLikeFrom" = "Erneut Liken kannst du ab ";
+"DontWantToWait" = "\nDu willst nicht warten? Dann nutze die Funktionen darunter um die Wartezeit zu verkürzen ⌛";
+"MoreLikes" = "Mehr Likes";
+"LikesFull" = "Wir sehen uns, wenn du keine Likes mehr hast.\nBis dahin, habe Spaß 😏";
+"PrivacyKey" = "Datenschutz";
+"UnderKey" = "Verstanden";
+"SwipeKey" = "Swipe nochmal";
+"SwipeOneKey" = "Streiche mit dem Finger über jemanden, um diese Funktion zu verwenden 😏";
+"SwipeAgainKey" = "Möchtest du deinen Swipe zurücknehmen? Dann sieh dir ein Video an, um deinen Swipe zu wiederholen 😝";
+"VideoKey" = "VIDEO ANSCHAUEN";
+"InformationKey" = "Information";
+"InfoTextKey" = "\nHier stehen die Informationen zum aktuellen Benutzer.\nDer Benutzer stellt sich mit seiner eigenen Stimme vor.\n";
+"InvalidLocKey" = "Ungültiger Standort";
+"LocationKey" = "Wir benötigen deinen Standort, um Übereinstimmungen in deiner Nähe zu finden!";
+"SettingKey" = "Öffne Einstellungen";
+"MatchKey" = "Beginne mit deinem Match zu sprechen 😝";
+"ProfileKey" = "Profil";
+"DatingTipsKey" = "Dating Tipps";
+"PickUpKey" = "Anmachsprüche";
+"DeleteAccKey" = "Account löschen";
+"ContactKey" = "Kontakt";
+"LogoutKey" = "Ausloggen";
+"ReportUserKey" = "Dieser Benutzer zeigt unerwünschte, anstößige Inhalte oder einer der folgenden Eigenschaften sind nicht in Ordnung:\n\nBenutzerprofilbild, Benutzeraudio, Benutzeralter.";
+"ReportTitle" = "Benutzer melden";
+"Report" = "Melden";
+"RepCan" = "Abbrechen";
+"Reported" = "Benutzer gemeldet";
+"ReportedTxt" = "Danke für deine Meldung!\nWir werden uns darum kümmern.";
+"ReportNoUser" = "Im Moment gibt es keinen Benutzer zum Melden.";
+
+"BlockUserKey" = "Dieser Benutzer zeigt unerwünschte, anstößige Inhalte oder einer der folgenden Eigenschaften sind nicht in Ordnung:\n\nBenutzerprofilbild, Benutzeraudio, Benutzeralter.";
+"BlockTitle" = "Benutzer blockieren";
+"Block" = "Blockieren";
+"BlockCan" = "Abbrechen";
+"Blocked" = "Benutzer blockiert";
+"BlockTxt" = "Dieser Benutzer ist blockiert!\nDiesen Benutzer wirst du nicht mehr sehen.";
+"BlockNoUser" = "Im Moment gibt es keinen Benutzer zum Blockieren.";
+
+
+//Login Controller
+"ToLoginKey" = "Zum Login";
+"PasswordKey" = "Passwort";
+"PasswordKeyRepeat" = "Wiederhole Passwort";
+"LoginBtnKey" = "Registrieren";
+"InvalidKey" = "Ungültig";
+"WrongMailKey" = "Falsche E - Mail oder Passwort!";
+"OkayKey" = "Okay";
+"InitsKey" = "Bitte überprüfe deine Eingaben!";
+"PassCheckKey" = "Überpüfe dein Passwort!";
+"CharKey" = "Passwörter müssen aus 8 oder mehr Zeichen bestehen!";
+"ImgKey" = "Bitte ein Profilbild hinzufügen!";
+"ExistKey" = "Ein Nutzer mit dieser E - Mail existiert bereits!";
+"ToRegsiterKey" = "Zum Registrieren";
+"RegisterBtnKey" = "Einloggen";
+
+//ExtraDate Controller
+"GeneralKey" = "Allgemein:";
+"FirstKey" = "Vorname";
+"LastKey" = "Nachname";
+"BirthKey" = "Geburtsdatum";
+"MKey" = "Mann";
+"FKey" = "Frau";
+"InterestKey" = "Interessiert an:";
+"BKey" = "Beides";
+"IntroKey" = "Stell dich vor:";
+"CompleteRegKey" = "Fertig";
+"AlphaKey" = "Nur das Alphabet ist erlaubt!";
+"DateKey" = "Nur ein ausgewähltes Datum ist erlaubt!";
+"RecordKey" = "Die Aufnahmezeit muss mindestens 10 Sekunden betragen!";
+"OlderKey" = "Du musst 18 Jahre oder älter sein!";
+"FillInKey" = "Bitte fülle das Formular aus!";
+
+//TabView Controller
+"DatesTabKey" = "Dates";
+"MatchesTabKey" = "Matches";
+
+//Matches Controller
+"LoadingKey" = "Matches werden geladen ...";
+"MatchesTitleKey" = "Matches";
+
+//Chat Controller
+"LoadingChatKey" = "Chat wird geladen ...";
+"VoiceKey" = "Sprachnachricht";
+"SentKey" = " hat dir eine Sprachnachricht geschickt 😏";
+"MessageKey" = "Nachrichten verbraucht ☹️";
+"MessWatchKey" = "Schau dir ein Video an um 3 weitere Sprachnachrichten zu bekommen 😝\nOder füll komplett auf 5 Sprachnachrichten auf ☑️";
+
+//PopUp ViewController
+"ReduceKey" = "REDUZIERE WARTEZEIT";
+"FillUpKey" = "KOMPLETT AUFFÜLLEN";
+
+//Edit Controller
+"IntroNewKey" = "Stelle dich neu vor:";
+"EditKey" = "Profil bearbeiten";
+
+//Dating Tipps Controller
+"TipsKey" = "Dating-Tipps werden für Männer und Frauen getrennt angegeben. Kein Geschlecht kann die Dating Tipps des anderen Geschlechts sehen.";
+"Date1Key" = "\"Bevor Sie also ein schlichtes „Hi!“ losschicken, hören Sie Ihre Profilsprachnotiz nochmal genau an. Überlegen Sie sich, was Sie dazu bewogen hat, genau diese Frau zu kontaktieren:\n\nWas hat Sie an ihrem Profil besonders fasziniert?\nWodurch sticht sie in Ihren Augen aus der Masse der anderen hervor?\nHat sie die gleichen Interessen wie Sie?\nEin spannendes Hobby?\nBeweist sie auf ihrem Profil Humor, hat sie abenteuerliche Reisen gemacht?\"";
+"Date2Key" = "\"Zeigen Sie gleich am Anfang, dass Sie sich mit ihrem Profil beschäftigt haben und sie ganz persönlich gemeint ist. Das beginnt schon bei der Anrede. Sprechen Sie sie immer mit ihrem Namen an und verbinden Sie gleich eine Frage damit. So signalisieren Sie Offenheit.\"";
+"Date3Key" = "\"Geeignete Themen zum Start ins Gespräch sind zum Beispiel:\n\nSport\nHobbys\nFilme und Serien\nMusik\nReiseziele\n\nVorsicht: Absolut verboten sind Themen wie Trennung, Liebeskummer, Enttäuschungen im familiären Kreis oder zu forsche Zukunftspläne à la \"Ich würde gern bald Kinder haben.\"";
+"Date4Key" = "\"Bei aller Kreativität, die beim Frauen anschreiben definitiv gefragt ist, sollten Sie immer ehrlich sein. Machen Sie sich nicht jünger, schlanker, trainierter oder erfolgreicher als Sie sind. Übertreiben Sie nicht.\"";
+"Date5Key" = "\"Die meisten Frauen lieben Männer, die über sich selbst lachen können, und die sie immer wieder zum Lachen bringen. Diese Fähigkeit steht auf der Wunschliste häufig ganz oben.\"";
+"Date6Key" = "\"Wenn Sie zu denen gehören, die gern viel und ausführlich reden, sollten Sie sich am Anfang noch etwas zurückhalten. Erschlagen Sie sie nicht mit zu vielen Informationen und einer endlosen, abschreckenden Sprachnotiz.\"";
+"Date7Key" = "\"Am Anfang der Kennenlernphase sind Komplimente auf das Aussehen einer Frau tabu! Attraktive Frauen hören solche Komplimente jeden Tag aus anderen Netzwerken.\"";
+"Date8Key" = "\"Einen Korb zu kassieren ist keine Kritik, es ist Feedback! Feedback ist ein Schritt auf dem Weg zum Ziel. Lerne daraus.\"";
+
+"DateF1Key" = "\"Sie sind eine selbstbewusste Frau und wissen was Sie wollen. Und wenn das Objekt der Begierde gerade dieser Mann ist, dann scheuen Sie sich nicht, es ihm auch zu zeigen. Sie haben nichts zu verlieren, also nur Mut.\"";
+"DateF2Key" = "\"Hören Sie sich seine Profilsprachnotiz genau an, bevor Sie eine Sprachnotiz verschicken. Welche Hobbys hat er? Was erkennen Sie im Hintergrund seines Profilbildes?\"";
+"DateF3Key" = "\"Eine offene Frage ist nicht nur ein toller Gesprächsöffner, zudem zeigt sie, dass Ihr Interesse keinesfalls geheuchelt war. Sie wollen wirklich etwas von dem Mann erfahren und er hat sofort perfekte Gesprächsthemen parat. Jackpot!\"";
+"DateF4Key" = "\"Wenn Ihnen nichts einfällt, um Männer mit Humor anschreiben zu können, denken Sie zum Beispiel an lustige Erinnerungen mit Freunden. Vielleicht gab es ein Erlebnis, das zeigt, dass Sie auch über sich selbst lachen können?\"";
+"DateF5Key" = "\"In einem ersten Gespräch mit einem Unbekannten begeben Sie sich beide auf neues Terrain. Das bedeutet allerdings nicht, dass Sie eine langweilige Botschaft formulieren müssen! Ein kleiner Flirt schadet nicht. Aber achten Sie darauf, es nicht zu übertreiben.\"";
+"DateF6Key" = "\"Die Nachricht ist abgeschickt. Aber die Antwort lässt leider auf sich warten. Lassen Sie sich nicht entmutigen! Sie selbst hatten im Leben sicher Phasen, in denen es stressiger zugegangen ist. Vielleicht hat er die Nachricht noch nicht gelesen oder will sich einfach Zeit nehmen, um eine Antwort zu formulieren.\"";
+"DateF7Key" = "\"Wenn Sie sich auf nur eine einzige Person konzentrieren, obwohl Sie von ihm noch keine vielversprechende Antwort erhalten haben, kann das sehr ernüchternd sein. Daher ist es nie schlecht, einen Plan B und C parat zu haben.\"";
+"DateF8Key" = "\"Wenn Sie Männer anschreiben kann es natürlich passieren, dass Sie nicht sofort den Mann fürs Leben finden. Lassen Sie den Kopf nicht hängen. Der richtige Mann wartet noch auf Sie.\"";
+
+//PickUp Controller
+"PickUpLineKey" = "Anmachsprüche werden für Männer und Frauen getrennt angegeben. Kein Geschlecht kann die Anmachsprüche des anderen Geschlechts sehen.";
+"DateM1Key" = "\"Die ständigen Werbungen im Chat Bereich nerven.\nReden wir doch auf einer werbungslosen Plattform weiter?\"";
+"DateM2Key" = "\"Untersuchungen haben ergeben, dass Frauen oft schon nach 1,3 Sekunden wissen, ob ihnen ein Mann gefällt. Dieser Satz hat jetzt circa drei Sekunden gedauert – wie lautet deine Antwort?\"";
+"DateM3Key" = "\"Bitte wechsel ein paar Worte mit mir, meine Freunde sollen neidisch werden weil ich mich mit einer schönen Frau unterhalte.\"";
+"DateM4Key" = "\"Denkst du, dass wir vielleicht einen gemeinsame Freund haben, der uns einander vorstellen könnte?\"";
+"DateM5Key" = "\"Welches Kompliment kannst du gar nicht mehr hören?\"";
+"DateM6Key" = "\"Weißt du, was mich richtig wundert? – Nein, was? – Dass wir uns noch nicht kennen.\"";
+"DateM7Key" = "\"Gut, dass ich weiß, wie man sich benimmt. Ich hab mir meinen Anmachspruch verkniffen. Trotzdem würde ich gerne wissen, wie du heißt.\"";
+"DateM8Key" = "\"Mir ist aufgefallen, dass dir aufgefallen ist, dass du mir aufgefallen bist.\"";
+"DateM9Key" = "\"Weißt du wie schwer ein Eisbär ist? – Schwer genug, um das Eis zu brechen. – Ich bin \"Tim\" und du?\"";
+"DateM10Key" = "\"Ich mag Frauen, die wissen, was sie wollen und ich hab das Gefühl, du bist so eine Frau. Liege ich richtig?\"";
+"DateM11Key" = "\"Ich hab mich umgesehn, du bist die hübscheste Frau hier.\"";
+"DateM12Key" = "\"Wir haben was gemeinsam: Ich mag hübsche Frauen und du bist eine hübsche Frau. Das kann doch kein Zufall sein!\"";
+"DateM13Key" = "\"Und sonst so?\"";
+
+"F1Key" = "\"Glaubst du an Schicksal?\"";
+"F2Key" = "\"Ich weiß zwar nicht, wer du bist, aber ich glaub ich würde es gern wissen.\"";
+"F3Key" = "\"Obwohl wir erst seit 2 Sekunden miteinander sprechen, fühlt es sich an schon an wie eine Ewigkeit. Bitte sag auch endlich was.\"";
+"F4Key" = "\"Du siehst spontan aus. Was hältst du von einem spontanen Gespräch?\"";
+"F5Key" = "\"Hey, du siehst aus wie mein nächster Freund.\"";
+"F6Key" = "\"Ich mag deine Jacke.\"";
+"F7Key" = "\"Hast du mir gerade zugezwinkert?\"";
+"F8Key" = "\"Wenn du mich kennenlernen willst, musst du dich beeilen. Ich geh gleich wieder.\"";
+"F9Key" = "\"Hey, hab dich hier noch nie gesehen. Bist du öfter hier?\"";
+"F10Key" = "\"Hi, ich bin \"Nadine\". Und du heißt?\"";
+"F11Key" = "\"Ich spreche eigentlich keine Männer an. Weiß auch nicht, was gerade mit mir los ist.\"";
+"F12Key" = "\"Und sonst so?\"";
+
+//Introduction Controller
+"FirstIntroKey" = "Einführung";
+"InfoIntroKey" = "Dies ist eine einmalige Einführung über die App VoiceDate.";
+
+//Tip Controller
+"StartKey" = "Jetzt VoiceDaten";

@@ -1,0 +1,164 @@
+/* 
+  Localizable.strings
+  Casen
+
+  Created by Ebu Bekir Celik on 10.08.19.
+  Copyright © 2019 KeepEasy. All rights reserved.
+*/
+
+//View Controller
+"ViewControllerTitle" = "Time for something new.\nVoiceDate now.";
+
+//Dating Controller
+"PressKey" = "Press the Update - Button to reload.";
+"NoUserKey" = "No User found";
+"LikesConsumed" = "Likes consumed";
+"YouCanLikeFrom" = "You can like again from ";
+"DontWantToWait" = "\nDon't want to wait? Use these Methods down below to reduce the waiting time ⌛";
+"MoreLikes" = "More Likes";
+"LikesFull" = "We see us if you don't have Likes anymore.\nUntil that, enjoy it 😏";
+"PrivacyKey" = "Privacy Policy";
+"UnderKey" = "I understand";
+"SwipeKey" = "Swipe again";
+"SwipeOneKey" = "Swipe someone to use this function 😏";
+"SwipeAgainKey" = "Do you want to take your swipe back? Watch a video to replay your swipe 😝";
+"VideoKey" = "WATCH VIDEO";
+"InformationKey" = "Information";
+"InfoTextKey" = "\nHere stands the Information about the current User.\nThe User introduces himself with his own voice.\n";
+"InvalidLocKey" = "Invalid location";
+"LocationKey" = "We need your location to find matches in your near!";
+"SettingKey" = "Open settings";
+"MatchKey" = "Begin to talk with your match 😝";
+"ProfileKey" = "Profile";
+"DatingTipsKey" = "Dating Tips";
+"PickUpKey" = "Pick-Up Lines";
+"DeleteAccKey" = "Delete Account";
+"ContactKey" = "Contact";
+"LogoutKey" = "Logout";
+"ReportUserKey" = "This user is showing unwanted, offensive content, or any of the following properties are not correct:\n\nUser profile picture, user audio, user age.";
+"ReportTitle" = "Report User";
+"Report" = "Report";
+"RepCan" = "Cancel";
+"Reported" = "User reported";
+"ReportedTxt" = "Thank you for your message!\nWe will take care of it.";
+"ReportNoUser" = "At the moment there is no user to report.";
+
+"BlockUserKey" = "This user is showing unwanted, offensive content, or any of the following properties are not correct:\n\nUser profile picture, user audio, user age.";
+"BlockTitle" = "Block User";
+"Block" = "Block";
+"BlockCan" = "Cancel";
+"Blocked" = "User blocked";
+"BlockTxt" = "This user is blocked!\nYou will not see this user anymore.";
+"BlockNoUser" = "At the moment there is no user to block.";
+
+//Login Controller
+"ToLoginKey" = "Go to Login";
+"PasswordKey" = "Password";
+"PasswordKeyRepeat" = "Password repeat";
+"LoginBtnKey" = "Register";
+"InvalidKey" = "Invalid";
+"WrongMailKey" = "Wrong e-mail or password!";
+"OkayKey" = "Okay";
+"InitsKey" = "Please check your inits!";
+"PassCheckKey" = "Please check your password!";
+"CharKey" = "Passwords must be have 8 or more characters!";
+"ImgKey" = "Please choose a profile image!";
+"ExistKey" = "User with this e-mail already exist!";
+"ToRegsiterKey" = "Go to Register";
+"RegisterBtnKey" = "Login";
+
+//ExtraDate Controller
+"GeneralKey" = "In general:";
+"FirstKey" = "Firstname";
+"LastKey" = "Lastname";
+"BirthKey" = "Birthday";
+"MKey" = "Male";
+"FKey" = "Female";
+"InterestKey" = "Interested in:";
+"BKey" = "Both";
+"IntroKey" = "Introduce yourself:";
+"CompleteRegKey" = "Complete registration";
+"AlphaKey" = "Only alphabet is allowed!";
+"DateKey" = "Only a choosen date is allowed!";
+"RecordKey" = "Record time must be minimal 10 seconds!";
+"OlderKey" = "You must be 18 or older!";
+"FillInKey" = "Please fill in the form!";
+
+//TabView Controller
+"DatesTabKey" = "Dates";
+"MatchesTabKey" = "Matches";
+
+//Matches Controller
+"LoadingKey" = "Loading Matches ...";
+"MatchesTitleKey" = "Matches";
+
+//Chat Controller
+"LoadingChatKey" = "Loading Chat ...";
+"VoiceKey" = "Voice Message";
+"SentKey" = " has sent you a voice message 😏";
+"MessageKey" = "Messages consumed ☹️";
+"MessWatchKey" = "Watch a video to get another 3 Voice Messages 😝\nOr fill up completely to 5 Voice Messages ☑️";
+
+//PopUp ViewController
+"ReduceKey" = "REDUCE WAITING TIME";
+"FillUpKey" = "FILL UP COMPLETELY";
+
+//Edit Controller
+"IntroNewKey" = "Introduce yourself new:";
+"EditKey" = "Edit Profile";
+
+//Dating Tipps Controller
+"TipsKey" = "Dating Tips are specified and separated for men and women. Neither gender can see the dating tips of the opposite gender.";
+"Date1Key" = "\"So before you send out a simple \"Hi!\", Listen to your profile voice memo again. Think about what motivated you to contact exactly this woman:\n\nWhat fascinated you most about her profile?\nWhy does she stand out from the crowd in your eyes?\nHas she the same interests as you?\nAn exciting hobby?\nDoes she have humor on her profile, did she make adventurous trips?\"";
+"Date2Key" = "\"Show right from the start that you have dealt with your profile and that it is meant to be personal. That starts with the salutation. Always speak with her name and connect a question with it. That's how you signal openness.\"";
+"Date3Key" = "\"Suitable topics to start the conversation are, for example:\n\nSports\nHobbies\nFilms and series\nMusic\nTravel objectives\n\nCaution: Absolutely prohibited are issues such as separation, heartache, disappointments in the family circle or too brisk future plans à la \"I would like to have children soon.\"";
+"Date4Key" = "\"With all the creativity that women are definitely asking for, you should always be honest. Do not make yourself younger, leaner, better or more successful than you are. Do not exaggerate.\"";
+"Date5Key" = "\"Most women love men who can laugh at themselves and make them laugh again and again. This ability is often high on the wish list.\"";
+"Date6Key" = "\"If you are one of those who likes to talk a lot and in detail, you should hold back a little at the beginning. Do not kill her with too much information and an endless, dissuasive voice memo.\"";
+"Date7Key" = "\"At the beginning of the introductory phase, compliments on a woman's appearance are taboo! Attractive women hear such compliments every day from other networks.\"";
+"Date8Key" = "\"Receiving a refusal is not a criticism, it is feedback! Feedback is a step on the way to the goal. Learn from it.\"";
+
+"DateF1Key" = "\"You are a confident woman and know what you want. And if the object of desire is just this man, then do not be afraid to show it to him as well. You have nothing to lose, so only courage.\"";
+"DateF2Key" = "\"Listen carefully to his profile voice memo before sending a voice note. What hobbies does he have? What do you recognize in the background of his profile picture?\"";
+"DateF3Key" = "\"An open question is not only a great conversationalist, it also shows that your interest was by no means hypocritical. They really want to know something about the man and he immediately has perfect topics to talk about. Jackpot!\"";
+"DateF4Key" = "\"If you can not think of writing humor to men, think of fun memories with friends, for example. Maybe there was an experience that shows that you can laugh about yourself as well?\"";
+"DateF5Key" = "\"In an initial conversation with a stranger, you both embark on new terrain. However, that does not mean that you have to formulate a boring message! A little flirtation does not hurt. But be careful not to overdo it.\"";
+"DateF6Key" = "\"The message has been sent. But the answer is unfortunately coming soon. Do not be discouraged! You yourself have certainly had a life-threatening phase in life. Maybe he has not read the message yet or just wants to take some time to formulate an answer.\"";
+"DateF7Key" = "\"Concentrating on just one person, even though you have not received any promising response from him, can be very sobering. Therefore, having a Plan B and C is never bad.\"";
+"DateF8Key" = "\"Of course, when you write to men, you may not immediately find the man for life. Do not hang your head. The right man is still waiting for you.\"";
+
+//PickUp Controller
+"PickUpLineKey" = "Pick-Up Lines are specified and separated for men and women. Neither gender can see the pick-up lines of the opposite gender.";
+"DateM1Key" = "\"The constant advertisements in the chat area are annoying.\nDo we still talk on an ad-free platform?\"";
+"DateM2Key" = "\"Research has shown that women often know after 1.3 seconds if they like a man. This sentence has now taken about three seconds - what is your answer?\"";
+"DateM3Key" = "\"Please exchange a few words with me, my friends should be jealous because I am talking to a beautiful woman.\"";
+"DateM4Key" = "\"Do you think we might have a mutual friend who could introduce us to each other?\"";
+"DateM5Key" = "\"What compliment can you not hear anymore?\"";
+"DateM6Key" = "\"Do you know what really surprises me? - No what? - That we do not know each other yet.\"";
+"DateM7Key" = "\"Good that I know how to behave. I pinched my temper. Nevertheless, I would like to know what your name is.\"";
+"DateM8Key" = "\"I noticed that you noticed that you noticed me.\"";
+"DateM9Key" = "\"Do you know how heavy a polar bear is? - Heavy enough to break the ice. - I'm \"Tim\" and you?\"";
+"DateM10Key" = "\"I like women who know what they want and I feel like you're such a woman. Am I right?\"";
+"DateM11Key" = "\"I've looked around you, you're the prettiest woman here.\"";
+"DateM12Key" = "\"We have something in common: I like pretty women and you are a pretty woman. That can not be a coincidence!\"";
+"DateM13Key" = "\"And otherwise?\"";
+
+"F1Key" = "\"Do you believe in fate?\"";
+"F2Key" = "\"I do not know who you are, but I think I would like to know.\"";
+"F3Key" = "\"Although we have only been talking to each other for 2 seconds, it already feels like an eternity. Please say something at last.\"";
+"F4Key" = "\"You look spontaneous. What do you think about a spontaneous conversation?\"";
+"F5Key" = "\"Hey, you look like my next friend.\"";
+"F6Key" = "\"I like your jacket.\"";
+"F7Key" = "\"Did you just wink at me?\"";
+"F8Key" = "\"If you want to get to know me, you have to hurry. I'll go right back.\"";
+"F9Key" = "\"Hey, I've never seen you here. Do you come here often?\"";
+"F10Key" = "\"Hi, I'm \"Nadine\". And you are called?\"";
+"F11Key" = "\"I do not really speak to any men. I do not know what's going on with me right now.\"";
+"F12Key" = "\"And otherwise?\"";
+
+//Introduction Controller
+"FirstIntroKey" = "Introduction";
+"InfoIntroKey" = "This is a unique introduction of the app VoiceDate.";
+
+//Tip Controller
+"StartKey" = "Start VoiceDating";
